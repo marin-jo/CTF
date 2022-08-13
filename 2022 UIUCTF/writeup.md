@@ -1,6 +1,7 @@
 OSINT
 
 #Everyone's A Critic 1
+
 ![1](https://user-images.githubusercontent.com/109789864/184471919-6c33c1bb-7e57-4367-8028-1c15dd250229.png)
 
 디스코드에 들어가서 찾으라는 문제가 나왔음
