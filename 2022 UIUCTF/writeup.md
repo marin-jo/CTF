@@ -1,6 +1,8 @@
 OSINT
+=====
 
 #Everyone's A Critic 1
+-----------------------
 
 ![1](https://user-images.githubusercontent.com/109789864/184471919-6c33c1bb-7e57-4367-8028-1c15dd250229.png)
 
@@ -16,6 +18,7 @@ OSINT
 flag 나옴
 
 #Everyone's A Critic 5
+----------------------
 
 ![image](https://user-images.githubusercontent.com/109789864/184471511-794927b0-bb33-4e6b-9882-d2b137c137e6.png)
 
@@ -30,6 +33,7 @@ flag 나옴
 Flag 나옴
 
 #Everyone's A Critic 4
+----------------------
 
 ![image](https://user-images.githubusercontent.com/109789864/184471567-79cd704f-2065-449f-8be5-9080d741e502.png)
 
@@ -42,6 +46,7 @@ Chuck의 트위터 계정에서 flag를 찾아야하는데
 ![image](https://user-images.githubusercontent.com/109789864/184471601-d2d5d177-dadb-4e9c-a403-f89e56db7a9d.png)
 
 #Everyone's A Critic 3
+----------------------
 
 ![image](https://user-images.githubusercontent.com/109789864/184471627-d7d56179-3949-43cf-898d-0b11a2152e58.png)
 
@@ -57,6 +62,7 @@ Chuck의 트위터 계정에서 flag를 찾아야하는데
 계속 보다가 중간에 채팅으로 flag 획득
 
 #Everyone's A Critic 2
+----------------------
 
 ![image](https://user-images.githubusercontent.com/109789864/184471664-16ec972a-bc63-4660-bf8e-8d6215c9af9b.png)
 
